@@ -12,8 +12,7 @@ int main() {
         for (int note2 = 0; note2 < 12; note2++) {
             
             int interval = (note2 - note1 + 12) % 12;
-
-           
+            
             printf("The interval from note %d to note %d is a ", note1, note2);
             switch (interval) {
                 case 0:
