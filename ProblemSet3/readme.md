@@ -1,0 +1,2 @@
+# Problem Set 3
+This problem set was pretty straightforward except for the last 2 got a little confusing especially with the pointers to structures so I used ChatGPT to help me debug. Upon finishing however, I am able to understand and explain all the code which is really helpful. 
