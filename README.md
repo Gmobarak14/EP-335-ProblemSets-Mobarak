@@ -1,0 +1,3 @@
+# User Manual 
+## GibbyDSP Distortion
+In its beta state, this plug in has three sliders Gain, Volume, and Mix. Gain increases the distortion of the signal coming throught the plugin. Volume increases the overall volume and amplitude of the signal. Mix mixes between a dry signal at 0 and a wet signal at 100. Add this plug in to your track to get some heavy distorted sound!! You can load the vst3 directly in to your DAW of choice or download the projucer file and compile a standalone app or AU. If you want to dive in further, the process block of the PluginProcessor.cpp is a good place to look into the DSP and customize it more to your liking if desired. 
